@@ -22,9 +22,9 @@ Durante o desafio, foram aplicadas as seguintes habilidades:
 
 ```bash
 .
-├── loja1.csv
-├── loja2.csv
-├── loja3.csv
-├── loja4.csv
-├── aluraStoreBr.ipynb
+├── loja_1.csv
+├── loja_2.csv
+├── loja_3.csv
+├── loja_4.csv
+├── AluraStoreBr.ipynb
 └── README.md
