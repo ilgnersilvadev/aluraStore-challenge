@@ -94,4 +94,4 @@ Este projeto está sob a licença MIT.
 
 ## 💡 Sobre
 
-Desenvolvido por [Seu Nome] como parte do desafio da Alura.
+Desenvolvido por Ilgner Silva Nascimento como parte do desafio da Alura.
