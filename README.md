@@ -39,19 +39,19 @@ Durante a análise, foram criadas diversas visualizações usando **Matplotlib**
 1. 📉 Faturamento Total por Loja
    
    A Loja 1 possui o maior faturamento, mas...
-   ![Gráfico de Faturamento]([graficos/01.png](https://github.com/ilgnersilvadev/aluraStore-challenge/blob/main/graficos/01.PNG))
+   ![Gráfico de Faturamento](graficos/01.png)
 
    
 2. ⭐ Avaliação Média dos Clientes
    
    Apesar do alto faturamento, a **Loja 1 tem a pior média de avaliação**, o que indica baixa satisfação dos clientes.
-   ![Gráfico de Avaliação Média dos Clientes]([graficos/04.png](https://github.com/ilgnersilvadev/aluraStore-challenge/blob/main/graficos/04.PNG))
+   ![Gráfico de Avaliação Média dos Clientes](graficos/04.png)
 
 
 3. 🚚 Custo Médio de Frete
    
    A Loja 1 também lidera negativamente no custo médio de frete, o que afeta sua eficiência operacional.
-   ![Gráfico de Custo Médio de Frete]([graficos/03.png](https://github.com/ilgnersilvadev/aluraStore-challenge/blob/main/graficos/03.PNG))
+   ![Gráfico de Custo Médio de Frete](graficos/03.png)
 
 ## 🧠 Insight Final
 
